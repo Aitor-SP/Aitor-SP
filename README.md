@@ -42,3 +42,7 @@
 [![Apache_Netbeans_Ide](https://img.shields.io/badge/Apache_netbeans_ide-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)]()
 [![Eclipse_Ide](https://img.shields.io/badge/Eclipse_Ide-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white&labelColor=101010)]()
 [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=101010)]()
+</br>
+
+## Encuéntrame en:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aitor_Sancho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aitorsancho89/)
