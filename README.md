@@ -8,7 +8,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
-[![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
