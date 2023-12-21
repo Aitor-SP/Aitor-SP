@@ -18,6 +18,10 @@
 [![Spring_Boot](https://img.shields.io/badge/Spring_boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=101010)]()
 [![Spring_Security](https://img.shields.io/badge/Spring_security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&labelColor=101010)]()
 </br>
+[![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white&labelColor=101010)]()
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()
+[![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=101010)]()
+</br>
 [![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
@@ -29,7 +33,6 @@
 </br>
 [![Apache_Maven](https://img.shields.io/badge/Apache_maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()
 </br>
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=101010)]()
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=101010)]()
