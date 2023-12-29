@@ -1,10 +1,10 @@
-## Hola, mi nombre es Aitor Sancho 👋
+## Hola, mi nombre es Aitor 👋
 
 ### 💻 ⌨ Full-Stack Dev
 
 💬 Soy Técnico Superior en el Desarrollo de Aplicaciones Multiplataforma y Técnico Superior en el Desarrollo de Aplicaciones Web.
 
-## Tecnologías:
+## Conocimientos en:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
